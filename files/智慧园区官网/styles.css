@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1350px;
+  width:1313px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,25 +12,25 @@
   position:absolute;
   z-index:0;
 }
-#u70_img {
+#u450_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:1350px;
-  height:627px;
+  width:1313px;
+  height:610px;
 }
-#u70 {
+#u450 {
   position:absolute;
   left:0px;
   top:0px;
-  width:1350px;
-  height:627px;
+  width:1313px;
+  height:610px;
 }
-#u71 {
+#u451 {
   position:absolute;
   left:2px;
-  top:306px;
-  width:1346px;
+  top:297px;
+  width:1309px;
   visibility:hidden;
   word-wrap:break-word;
 }
